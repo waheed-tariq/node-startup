@@ -1,0 +1,25 @@
+{
+  "name": "node-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waheed-tariq/node-startup.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "waheed tariq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waheed-tariq/node-startup/issues"
+  },
+  "homepage": "https://github.com/waheed-tariq/node-startup#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
